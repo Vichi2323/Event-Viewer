@@ -1,0 +1,34 @@
+{
+  "myEvents": [
+    {
+      "id": 1
+    },
+    {
+      "eventName": "My old event",
+      "eventDate": "14 05 2021",
+      "eventDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 2
+    },
+    {
+      "id": 5,
+      "data": {
+        "eventName": "recimo",
+        "eventDate": "12 23 34",
+        "eventDescription": "recimo",
+        "id": 5
+      }
+    },
+    {
+      "eventName": "nov event",
+      "eventDate": "234565",
+      "eventDescription": "nokaut da umrat samo ja ne",
+      "id": 6
+    },
+    {
+      "eventName": "newest event ever",
+      "eventDate": "23 34 23",
+      "eventDescription": "eventis",
+      "id": 7
+    }
+  ]
+}
